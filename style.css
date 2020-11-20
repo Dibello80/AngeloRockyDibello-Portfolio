@@ -31,3 +31,13 @@ h1, h2, h3 {
     font-size:xx-large;
 }
 
+.linkedin {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.mt-3 {
+    
+    margin-right: 50px;
+    padding-right: 1px;
+}

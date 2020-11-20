@@ -22,7 +22,7 @@ link => https://dibello80.github.io/AngeloRockyDibello-Portfolio/
 ##Screenshots
 
 ![alt text](https://github.com/Dibello80/AngeloRockyDibello-Portfolio/blob/main/screenshots/Screen%20Shot%202020-11-20%20at%202.56.55%20AM.png)
-![alt text](https://github.com/Dibello80/BackToTheQuiz/blob/main/screeshot_app/Screen%20Shot_1.png)
+![alt text](https://github.com/Dibello80/AngeloRockyDibello-Portfolio/blob/main/screenshots/Screen%20Shot%202020-11-20%20at%202.57.05%20AM.png)
 ![alt text](https://github.com/Dibello80/BackToTheQuiz/blob/main/screeshot_app/Screen%20Shot_1.png)
 
 

@@ -31,13 +31,24 @@ h1, h2, h3 {
     font-size:xx-large;
 }
 
-.linkedin {
-    margin-top: 50px;
-    margin-left: 400px;
+.links {
+
+    margin: 30px;
+   
 }
 
-.mt-3 {
-    
-    margin-right: 50px;
-    padding-right: 1px;
+.linkedin {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.resume {
+    margin-left: 36x;
+    margin-top: 36px;
+    padding: 20px;
+}
+
+.github {
+    margin-right: 120px;
 }
